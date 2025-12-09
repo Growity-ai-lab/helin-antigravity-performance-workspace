@@ -21,3 +21,14 @@ Antigravity içindeki agent’lar, bu repo üzerinden:
 2. Google Antigravity → **Import Workspace from GitHub**
 3. Bu repo URL’sini gir
 4. Aşağıdaki prompt ile başla:
+
+
+## DOSYA YAPISI
+
+- `helin_profile.yaml` → AI agent için profil datası  
+- `roadmap.md` → 24 aylık gelişim yolculuğu  
+- `agent_instructions.md` → Antigravity agent davranış kuralları  
+- `tasks/` → Haftalık & aylık görev şablonları  
+- `data/example_account_metrics.json` → Test amaçlı örnek performans datası  
+
+Bu repo, AI’nin uzun dönemli kariyer koçu olarak çalışması için optimize edilmiştir.
