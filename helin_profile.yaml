@@ -1,0 +1,51 @@
+name: "Helin Tunalı"
+location: "Istanbul, Türkiye"
+email: "helintunali@gmail.com"
+
+career_goal:
+  short_term: "Full-funnel odaklı Performance Marketing Specialist seviyesine yükselmek."
+  long_term: "Senior Performance / Growth Specialist olmak."
+
+skills:
+  digital_ads:
+    - Meta Ads
+    - Google Ads
+    - TikTok Ads
+    - Criteo
+    - Sprinklr
+    - Campaign Manager 360
+    - DV360
+  analytics:
+    - Excel
+    - GA4
+    - Looker Studio
+  creative:
+    - Canva
+    - Visual storytelling
+  soft_skills:
+    - Communication
+    - Collaboration
+    - Analytical thinking
+
+experience:
+  - role: "Biddable Executive"
+    company: "Publicis Groupe"
+    period: "March 2025 – Present"
+    highlights:
+      - "Full-funnel campaign setup and optimizations"
+      - "Luxury brands: Sephora, LV, YSL, Prada, Mugler, Bvlgari"
+      - "Daily pacing, KPI tracking, creative QA"
+  - role: "Biddable Intern"
+    company: "Publicis Groupe"
+    period: "Jan 2025 – March 2025"
+  - role: "Digital Marketing Trainee"
+    company: "Performics Academy"
+    period: "Dec 2024 – Jan 2025"
+
+learning_focus:
+  - Meta & Google advanced bidding (tROAS, tCPA)
+  - PMax advanced setup
+  - Offline conversions + CRM integration
+  - Funnel strategy
+  - Creative x Performance framework
+  - Basic SQL
