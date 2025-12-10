@@ -1,0 +1,66 @@
+{
+  "agency": {
+    "name": "Helin Antigravity Performance",
+    "google_mcc_id": "123-456-7890",
+    "meta_business_id": "your_business_manager_id"
+  },
+  "clients": [
+    {
+      "id": "client-001",
+      "name": "Prada Turkey",
+      "google_ads": {
+        "customer_id": "1234567890",
+        "campaigns": ["Winter 2025", "Spring Campaign"]
+      },
+      "meta_ads": {
+        "ad_account_id": "act_1234567890",
+        "campaigns": ["Instagram Reach", "Facebook Conversion"]
+      },
+      "budget": {
+        "monthly": 50000,
+        "currency": "TRY"
+      },
+      "status": "active"
+    },
+    {
+      "id": "client-002",
+      "name": "Gucci Istanbul",
+      "google_ads": {
+        "customer_id": "9876543210",
+        "campaigns": ["Luxury Collection"]
+      },
+      "meta_ads": {
+        "ad_account_id": "act_9876543210",
+        "campaigns": ["Brand Awareness"]
+      },
+      "budget": {
+        "monthly": 75000,
+        "currency": "TRY"
+      },
+      "status": "active"
+    },
+    {
+      "id": "client-003",
+      "name": "Sample Client",
+      "google_ads": {
+        "customer_id": "1111111111",
+        "campaigns": []
+      },
+      "meta_ads": {
+        "ad_account_id": "act_1111111111",
+        "campaigns": []
+      },
+      "budget": {
+        "monthly": 25000,
+        "currency": "TRY"
+      },
+      "status": "paused"
+    }
+  ],
+  "settings": {
+    "default_currency": "TRY",
+    "usd_to_try_rate": 34.0,
+    "dashboard_refresh_interval": 300000,
+    "show_inactive_clients": false
+  }
+}
